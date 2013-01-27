@@ -1,0 +1,11 @@
+# Especifico projeto java - adicionado manualmente
+*.class
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
